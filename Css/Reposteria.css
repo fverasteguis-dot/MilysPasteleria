@@ -1,0 +1,86 @@
+body{
+    margin-top: 60px;
+}
+
+.bg-mily{
+    background-color: #D88BA5;
+}
+
+/* Botón personalizado */
+.btn-mily{ 
+    background-color: #C94F7C;
+    border-color: #C94F7C;
+    color: white;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#productos,
+#nosotros,
+#contacto{
+    scroll-margin-top: 100px;
+}
+
+.imagen-producto{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.imagen-producto:hover{
+    transform: scale(1.020);
+    transition: 0.3s ease;
+}
+
+.modal-body{
+    min-height: 700px;
+}
+
+.carousel-item{
+    height: 650px;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.carousel-control-prev,
+.carousel-control-next{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    background-color: #D88BA5;
+    border: 2px solid white;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 1;
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover{
+    background-color: #d54575;
+    opacity: 1;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.card-img-top{
+    height: 350px;
+    object-fit: cover;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+}
+
+.card-text{
+    margin-top: auto;
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "titulo": "Tarta de Chocolate",
+        "precio": 25,
+        "descripcion": "Elaborada artesanalmente con productos seleccionados.",
+        "imagen": "Imgs/TartaChocolate.webp",
+
+        "galeria": [
+            "Imgs/TartaChocolate/TartaChocolate1.webp",
+            "Imgs/TartaChocolate/TartaChocolate2.jpg",
+            "Imgs/TartaChocolate/TartaChocolate3.jpeg"
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Cupcakes",
+        "precio": 13,
+        "descripcion": "Cupcakes artesanales decorados a mano.",
+        "imagen": "Imgs/Cupcakes.avif",
+        
+        "galeria": [
+            "Imgs/Cupcakes/Cupcake1.jpg",
+            "Imgs/Cupcakes/Cupcake2.jpg",
+            "Imgs//Cupcakes/Cupcake3.webp"
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Galletas Decoradas",
+        "precio": 15,
+        "descripcion": "Galletas personalizadas para eventos.",
+        "imagen": "Imgs/GalletasDecoradas.webp",
+        
+        "galeria": [
+            "Imgs/GalletasDecoradas/GalletaDecorada1.JPG",
+            "Imgs/GalletasDecoradas/GalletaDecorada2.webp",
+            "Imgs/GalletasDecoradas/GalletaDecorada3.jpg"
+        ]
+        
+    }
+]
