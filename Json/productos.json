@@ -1,42 +1,140 @@
 [
     {
         "id": 1,
-        "titulo": "Tarta de Chocolate",
+        "titulo": "Alfajores",
         "precio": 25,
         "descripcion": "Elaborada artesanalmente con productos seleccionados.",
-        "imagen": "Imgs/TartaChocolate.webp",
+        "imagen": "Imgs/Alfajores/Portada.jpeg",
 
         "galeria": [
-            "Imgs/TartaChocolate/TartaChocolate1.webp",
-            "Imgs/TartaChocolate/TartaChocolate2.jpg",
-            "Imgs/TartaChocolate/TartaChocolate3.jpeg"
+            "Imgs/Alfajores/1.jpeg",
+            "Imgs/Alfajores/2.jpeg",
+            "Imgs/Alfajores/3.jpeg",
+            "Imgs/Alfajores/4.jpeg",
+            "Imgs/Alfajores/5.jpeg",
+            "Imgs/Alfajores/6.jpeg",
+            "Imgs/Alfajores/7.jpeg",
+            "Imgs/Alfajores/8.jpeg",
+            "Imgs/Alfajores/9.jpeg",
+            "Imgs/Alfajores/10.jpeg",
+            "Imgs/Alfajores/11.jpeg",
+            "Imgs/Alfajores/12.jpeg",
+            "Imgs/Alfajores/13.jpeg",
+            "Imgs/Alfajores/14.jpeg",
+            "Imgs/Alfajores/15.jpeg"
         ]
     },
+
     {
         "id": 2,
-        "titulo": "Cupcakes",
-        "precio": 13,
-        "descripcion": "Cupcakes artesanales decorados a mano.",
-        "imagen": "Imgs/Cupcakes.avif",
-        
+        "titulo": "Cupcake",
+        "precio": 25,
+        "descripcion": "Elaborada artesanalmente con productos seleccionados.",
+        "imagen": "Imgs/Cupcake/Portada.jpeg",
+
         "galeria": [
-            "Imgs/Cupcakes/Cupcake1.jpg",
-            "Imgs/Cupcakes/Cupcake2.jpg",
-            "Imgs//Cupcakes/Cupcake3.webp"
+            "Imgs/Cupcake/1.jpeg",
+            "Imgs/Cupcake/2.jpeg",
+            "Imgs/Cupcake/3.jpeg"
         ]
     },
+
     {
         "id": 3,
+        "titulo": "Donas",
+        "precio": 13,
+        "descripcion": "Cupcakes artesanales decorados a mano.",
+        "imagen": "Imgs/Donas/Portada.jpeg",
+        
+        "galeria": [
+            "Imgs/Donas/1.jpeg"
+        ]
+    },
+
+    {
+        "id": 4,
+        "titulo": "Empanadas",
+        "precio": 15,
+        "descripcion": "Galletas personalizadas para eventos.",
+        "imagen": "Imgs/Empanadas/Portada.jpeg",
+        
+        "galeria": [
+            "Imgs/Empanadas/1.jpeg",
+            "Imgs/Empanadas/2.jpeg"
+        ]   
+    },
+
+    {
+        "id": 5,
         "titulo": "Galletas Decoradas",
         "precio": 15,
         "descripcion": "Galletas personalizadas para eventos.",
-        "imagen": "Imgs/GalletasDecoradas.webp",
+        "imagen": "Imgs/GalletasDecoradas/Portada.jpeg",
         
         "galeria": [
-            "Imgs/GalletasDecoradas/GalletaDecorada1.JPG",
-            "Imgs/GalletasDecoradas/GalletaDecorada2.webp",
-            "Imgs/GalletasDecoradas/GalletaDecorada3.jpg"
-        ]
+            "Imgs/GalletasDecoradas/1.jpeg",
+            "Imgs/GalletasDecoradas/2.jpeg",
+            "Imgs/GalletasDecoradas/3.jpeg",
+            "Imgs/GalletasDecoradas/4.jpeg",
+            "Imgs/GalletasDecoradas/5.jpeg",
+            "Imgs/GalletasDecoradas/6.jpeg",
+            "Imgs/GalletasDecoradas/7.jpeg",
+            "Imgs/GalletasDecoradas/8.jpeg",
+            "Imgs/GalletasDecoradas/9.jpeg",
+            "Imgs/GalletasDecoradas/10.jpeg",
+            "Imgs/GalletasDecoradas/11.jpeg",
+            "Imgs/GalletasDecoradas/12.jpeg",
+            "Imgs/GalletasDecoradas/13.jpeg",
+            "Imgs/GalletasDecoradas/14.jpeg",
+            "Imgs/GalletasDecoradas/15.jpeg",
+            "Imgs/GalletasDecoradas/16.jpeg",
+            "Imgs/GalletasDecoradas/17.jpeg",
+            "Imgs/GalletasDecoradas/18.jpeg",
+            "Imgs/GalletasDecoradas/19.jpeg",
+            "Imgs/GalletasDecoradas/20.jpeg"
+        ]    
+    },
+
+    {
+        "id": 6,
+        "titulo": "Tortas",
+        "precio": 15,
+        "descripcion": "Galletas personalizadas para eventos.",
+        "imagen": "Imgs/Tortas/Portada.jpeg",
         
+        "galeria": [
+            "Imgs/Tortas/1.jpeg",
+            "Imgs/Tortas/2.jpeg",
+            "Imgs/Tortas/3.jpeg",
+            "Imgs/Tortas/4.jpeg",
+            "Imgs/Tortas/5.jpeg",
+            "Imgs/Tortas/6.jpeg",
+            "Imgs/Tortas/7.jpeg",
+            "Imgs/Tortas/8.jpeg",
+            "Imgs/Tortas/9.jpeg",
+            "Imgs/Tortas/10.jpeg",
+            "Imgs/Tortas/11.jpeg",
+            "Imgs/Tortas/12.jpeg",
+            "Imgs/Tortas/13.jpeg",
+            "Imgs/Tortas/14.jpeg"
+        ]    
+    },
+    
+    {
+        "id": 7,
+        "titulo": "Tortas Personalizadas",
+        "precio": 15,
+        "descripcion": "Galletas personalizadas para eventos.",
+        "imagen": "Imgs/TortasPersonalizadas/Portada.jpeg",
+        
+        "galeria": [
+            "Imgs/TortasPersonalizadas/1.jpeg",
+            "Imgs/TortasPersonalizadas/2.jpeg",
+            "Imgs/TortasPersonalizadas/3.jpeg",
+            "Imgs/TortasPersonalizadas/4.jpeg",
+            "Imgs/TortasPersonalizadas/5.jpeg",
+            "Imgs/TortasPersonalizadas/6.jpeg",
+            "Imgs/TortasPersonalizadas/7.jpeg"
+        ]    
     }
 ]
