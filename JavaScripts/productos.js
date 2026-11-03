@@ -26,10 +26,11 @@ fetch("Json/productos.json")
                             <img src="${producto.imagen}" class="card-img-top imagen-producto" data-id="${producto.id}" alt="${producto.titulo}">
                             <p class="card-text">${producto.descripcion}</p>
                         </div>
-                        <div class="card-footer">
-                            <button class="btn btn-mily w-100 solicitar-info" data-producto="${producto.titulo}">
+                        <div class="card-footer text-center">
+                            <button class="btn btn-mily solicitar-info" data-producto="${producto.titulo}">
                                 Solicitar información
                             </button>
+                            <button class="btn btn-success" id="btnWhatsappModal">WhatsApp</button>
                         </div>
                     </div>
                 </div>
@@ -95,11 +96,10 @@ fetch("Json/productos.json")
                 modal.hide();
             }
             const mensaje = encodeURIComponent(
-                `Hola.
-                 Estoy interesado(a) en el producto: 
-                 ${productoActual.titulo}.
-                 ¿Podrías brindarme más informaciòn?. 
-                 Gracias.`);
+`Hola.
+Estoy interesado(a) en el producto: ${productoActual.titulo}.
+¿Podrías brindarme más informaciòn?. 
+Gracias.`);
                  window.open(
                     `https://wa.me/34603220697?text=${mensaje}`,
                     "_blank"

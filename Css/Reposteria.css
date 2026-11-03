@@ -34,11 +34,11 @@ html{
 }
 
 .modal-body{
-    min-height: 700px;
+    min-height: 600px;
 }
 
 .carousel-item{
-    height: 650px;
+    height: 550px;
 }
 
 .carousel-item img{
@@ -83,4 +83,25 @@ html{
 
 .card-text{
     margin-top: auto;
+}
+
+.logo-navbar{
+    height: 35px;
+    width: auto;
+}
+
+.navbar{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.logoTitulo{
+
+    width: 100%;
+    max-width: 700px;
+
+    height: auto;
+
+    margin-bottom: 15px;
+
 }
