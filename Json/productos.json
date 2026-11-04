@@ -97,6 +97,18 @@
 
     {
         "id": 6,
+        "titulo": "Maquetas",
+        "precio": 15,
+        "descripcion": "Galletas personalizadas para eventos.",
+        "imagen": "Imgs/Maquetas/Portada.jpeg",
+        
+        "galeria": [
+            "Imgs/Maquetas/1.jpeg"
+        ]   
+    },
+
+    {
+        "id": 7,
         "titulo": "Tortas",
         "precio": 15,
         "descripcion": "Galletas personalizadas para eventos.",
@@ -121,7 +133,7 @@
     },
     
     {
-        "id": 7,
+        "id": 8,
         "titulo": "Tortas Personalizadas",
         "precio": 15,
         "descripcion": "Galletas personalizadas para eventos.",
