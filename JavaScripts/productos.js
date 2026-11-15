@@ -18,7 +18,7 @@ fetch("Json/productos.json")
                             </h5>
                             <div class="text-center">
                                 <span class="badge bg-success">
-                                    Desde ${producto.precio} €
+                                    Desde S/.${producto.precio}
                                 </span>
                             </div>
                         </div>

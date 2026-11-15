@@ -2,8 +2,8 @@
     {
         "id": 1,
         "titulo": "Alfajores",
-        "precio": 25,
-        "descripcion": "Elaborada artesanalmente con productos seleccionados.",
+        "precio": 25.00,
+        "descripcion": "Alfajores pequeños, medianos y grandes de vainilla. Personalizados de distintas temáticas.",
         "imagen": "Imgs/Alfajores/Portada.jpeg",
 
         "galeria": [
@@ -28,8 +28,8 @@
     {
         "id": 2,
         "titulo": "Cupcake",
-        "precio": 25,
-        "descripcion": "Elaborada artesanalmente con productos seleccionados.",
+        "precio": 18.00,
+        "descripcion": "Cupcakes clásico de chocolate y vainilla. Especiales: panetón, inglés, velvet ved, chocolate y zanahoria. Se venden en paquetes de 6, 9 o 12 unidades",
         "imagen": "Imgs/Cupcake/Portada.jpeg",
 
         "galeria": [
@@ -42,8 +42,8 @@
     {
         "id": 3,
         "titulo": "Donas",
-        "precio": 13,
-        "descripcion": "Cupcakes artesanales decorados a mano.",
+        "precio": 3.00,
+        "descripcion": "Donas de vainilla bañado en chocolate bitter o blanco con o sin diseño",
         "imagen": "Imgs/Donas/Portada.jpeg",
         
         "galeria": [
@@ -54,8 +54,8 @@
     {
         "id": 4,
         "titulo": "Empanadas",
-        "precio": 15,
-        "descripcion": "Galletas personalizadas para eventos.",
+        "precio": 15.00,
+        "descripcion": "Empanadas de carne, pollo y mixtas",
         "imagen": "Imgs/Empanadas/Portada.jpeg",
         
         "galeria": [
@@ -67,8 +67,8 @@
     {
         "id": 5,
         "titulo": "Galletas Decoradas",
-        "precio": 15,
-        "descripcion": "Galletas personalizadas para eventos.",
+        "precio": 35.00,
+        "descripcion": "Galletas decoradas de diversas temáticas: Harry Potter, Halloween, fiestas patrias, etc",
         "imagen": "Imgs/GalletasDecoradas/Portada.jpeg",
         
         "galeria": [
@@ -98,8 +98,8 @@
     {
         "id": 6,
         "titulo": "Maquetas",
-        "precio": 15,
-        "descripcion": "Galletas personalizadas para eventos.",
+        "precio": 60.00,
+        "descripcion": "Maquetas de tortas para cumpleaños, bautizos, matrimonios. Temáticas diversas.",
         "imagen": "Imgs/Maquetas/Portada.jpeg",
         
         "galeria": [
@@ -110,8 +110,8 @@
     {
         "id": 7,
         "titulo": "Tortas",
-        "precio": 15,
-        "descripcion": "Galletas personalizadas para eventos.",
+        "precio": 70.00,
+        "descripcion": "Tortas de vainilla, chocolate, red velvet, panetón, de novia, inglés, de higos, etc.",
         "imagen": "Imgs/Tortas/Portada.jpeg",
         
         "galeria": [
@@ -135,8 +135,8 @@
     {
         "id": 8,
         "titulo": "Tortas Personalizadas",
-        "precio": 15,
-        "descripcion": "Galletas personalizadas para eventos.",
+        "precio": 70.00,
+        "descripcion": "Tortas personalizadas para eventos especiales: matrimonios, cumpleaños, bautizos, baby shower, etc.",
         "imagen": "Imgs/TortasPersonalizadas/Portada.jpeg",
         
         "galeria": [
