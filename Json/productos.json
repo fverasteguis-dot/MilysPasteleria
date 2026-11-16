@@ -29,7 +29,7 @@
         "id": 2,
         "titulo": "Cupcake",
         "precio": 18.00,
-        "descripcion": "Cupcakes clásico de chocolate y vainilla. Especiales: panetón, inglés, velvet ved, chocolate y zanahoria. Se venden en paquetes de 6, 9 o 12 unidades",
+        "descripcion": "Cupcakes clásico de chocolate y vainilla. Especiales: panetón, inglés, velvet red, chocolate y zanahoria. Se venden en paquetes de 6, 9 o 12 unidades.",
         "imagen": "Imgs/Cupcake/Portada.jpeg",
 
         "galeria": [
@@ -43,7 +43,7 @@
         "id": 3,
         "titulo": "Donas",
         "precio": 3.00,
-        "descripcion": "Donas de vainilla bañado en chocolate bitter o blanco con o sin diseño",
+        "descripcion": "Donas de vainilla bañado en chocolate bitter o blanco con o sin diseño.",
         "imagen": "Imgs/Donas/Portada.jpeg",
         
         "galeria": [
@@ -68,7 +68,7 @@
         "id": 5,
         "titulo": "Galletas Decoradas",
         "precio": 35.00,
-        "descripcion": "Galletas decoradas de diversas temáticas: Harry Potter, Halloween, fiestas patrias, etc",
+        "descripcion": "Galletas decoradas de diversas temáticas: Harry Potter, Halloween, fiestas patrias, etc.",
         "imagen": "Imgs/GalletasDecoradas/Portada.jpeg",
         
         "galeria": [
@@ -111,7 +111,7 @@
         "id": 7,
         "titulo": "Tortas",
         "precio": 70.00,
-        "descripcion": "Tortas de vainilla, chocolate, red velvet, panetón, de novia, inglés, de higos, etc.",
+        "descripcion": "Tortas de vainilla, chocolate, velvet red, panetón, de novia, inglés, de higos, etc.",
         "imagen": "Imgs/Tortas/Portada.jpeg",
         
         "galeria": [
@@ -147,6 +147,21 @@
             "Imgs/TortasPersonalizadas/5.jpeg",
             "Imgs/TortasPersonalizadas/6.jpeg",
             "Imgs/TortasPersonalizadas/7.jpeg"
+        ]    
+    },
+
+    {
+        "id": 9,
+        "titulo": "NAVIDAD",
+        "precio": 20,
+        "descripcion": "Kits de navidad: galletas de casitas armables, para pintar y para regalar. Kekes ingles con glasé.",
+        "imagen": "Imgs/Navidad/Portada.jpg",
+        
+        "galeria": [
+            "Imgs/Navidad/1.jpeg",
+            "Imgs/Navidad/2.jpeg",
+            "Imgs/Navidad/3.jpeg",
+            "Imgs/Navidad/4.jpeg"
         ]    
     }
 ]

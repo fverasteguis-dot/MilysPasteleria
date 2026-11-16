@@ -101,7 +101,7 @@ Estoy interesado(a) en el producto: ${productoActual.titulo}.
 ¿Podrías brindarme más informaciòn?. 
 Gracias.`);
                  window.open(
-                    `https://wa.me/34603220697?text=${mensaje}`,
+                    `https://wa.me/51941365456?text=${mensaje}`,
                     "_blank"
                 );
         }
